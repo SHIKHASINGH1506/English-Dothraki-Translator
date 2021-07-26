@@ -65,3 +65,17 @@ textarea{
     font-family: inherit;
     font-size: large;
 }
+footer{
+    width: 100%;
+    padding: 1rem;
+    background-color: var(--black);
+    text-align: center;
+    color: grey;
+}
+.description{
+    max-width: 600px;
+    margin: auto;
+}
+.keywords{
+    color: var(--minion-blue);
+}
